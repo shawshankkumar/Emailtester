@@ -36,7 +36,7 @@ class email
         String s;
         int c=0;
         t=in.nextInt();
-        for(i=0;i<t;i++)
+        for(i=0;i<t;i++)//number of emails to be checked
         {
             s=in.next();
             if(first(s)==1)
