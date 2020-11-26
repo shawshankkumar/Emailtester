@@ -15,7 +15,7 @@ class email
         }//c=5
         if(c==len)
         return 1;
-        return 0;
+        return 0;//shashank
         //
         
     }
